@@ -214,7 +214,6 @@ Sharpening the edge ────────────────────
 
 [![Email](https://img.shields.io/badge/Email-mvyas0327@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvyas0327@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhav_Vyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhav-vyas-164501293)
-[![GitHub](https://img.shields.io/badge/GitHub-madhavvyas03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhavvyas03)
 [![Resume](https://img.shields.io/badge/📄_View_My_Resume-4B0082?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/1Y7Robpa5zMv0gaBlmn-Q2D59CcpznQ08/edit?usp=sharing&ouid=118219652114868946813&rtpof=true&sd=true)
 </div>
 
