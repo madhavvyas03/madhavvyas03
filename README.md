@@ -2,20 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Madhav%20Vyas&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%20%7C%20%20Generative%20AI%20Developer%20%20%7C%20%20Backend%20Engineer&descAlignY=62&descSize=17&descColor=b3b3cc&animation=fadeIn" />
 
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C5CBF&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+that+ship+to+production;Fine-tuning+LLMs+with+LoRA+%2F+QLoRA;FastAPI+%2B+FAISS+%2B+LangChain+%E2%86%92+real+AI+products;1.2+yrs+exp+%7C+Open+to+AI+%2F+ML+%2F+SWE+roles)](https://git.io/typing-svg)
 
-</div align="center">
+</div >
 
----
+<div align="center">
 
 ![SE](https://img.shields.io/badge/💼_Software_Engineer-4B0082?style=for-the-badge)
 ![AIE](https://img.shields.io/badge/🧬_AI_%2F_ML_Engineer-0f3460?style=for-the-badge)
 
 ---
-</div>
+</div align="center">
 
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,53 +51,33 @@
 
 ---
 
-<br/>
-
-<br/>
-
 ## 👤 About Me
 
-> *I care about making AI work in production — not just in notebooks. From fine-tuning LLMs with LoRA/QLoRA to deploying scalable RAG systems with FastAPI and FAISS, I build things that ship.*
+> *Hi, I'm Madhav Vyas, a B.Tech graduate with 1.2 years of experience in Machine Learning and AI development.My interests lie in Machine Learning, Generative AI, Large Language Models (LLMs), and Software Engineering. I enjoy building intelligent applications, scalable backend systems, and end-to-end AI solutions that solve real-world problems. I care about making AI work in production — not just in notebooks. From fine-tuning LLMs with LoRA/QLoRA to deploying scalable RAG systems with FastAPI and FAISS, I build things that ship.*
 
 ---
-
-<br/>
-## 💡 Core Expertise
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ◈  GENERATIVE AI                                                ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ▸ RAG Pipeline Design           ▸ LLM Fine-Tuning (LoRA/QLoRA)  ║
-║  ▸ Prompt Engineering & CoT      ▸ Vector Databases (FAISS)      ║
-║  ▸ AI Chatbots & Agents          ▸ Hallucination Reduction       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ◈  MACHINE LEARNING                                             ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ▸ Model Training & Evaluation   ▸ Deep Learning — CNNs · ViT    ║
-║  ▸ BERT · T5 · BART Fine-Tuning  ▸ Time Series Forecasting       ║
-║  ▸ Feature Engineering           ▸ Semantic Search & Embeddings  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ◈  SOFTWARE ENGINEERING                                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ▸ Production FastAPI Services   ▸ System Design & OOP           ║
-║  ▸ OAuth 2.0 & SSO               ▸ Data Structures & Algorithms  ║
-║  ▸ Redis Caching & Optimisation  ▸ REST API Architecture         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ◈  MLOPS                                                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ▸ Docker Containerisation       ▸ Model Deployment & Serving    ║
-║  ▸ Experiment Tracking (MLflow)  ▸ Inference Latency Optim.      ║
-║  ▸ Distributed Systems           ▸ CI/CD Basics                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<br/>
 
 ## 🚀 Featured Projects
+### 🤖 [ASTRA-Sim Distributed Training Bottleneck Analyzer](https://github.com/madhavvyas03/Distributed-training-bottleneck-analyzer-using-AstraSim)
 
+> *AI agent for GPU scaling & communication bottleneck analysis*
+
+AI-powered system that processes 100+ Astra-Sim distributed simulation logs, identifies latency/throughput bottlenecks, and auto-generates optimization recommendations.
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![AstraSim](https://img.shields.io/badge/Astra--Sim-555555?style=flat-square)
+![DistributedSystems](https://img.shields.io/badge/Distributed_Systems-6A0DAD?style=flat-square)
+![AIAgents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=flat-square)
+![PerformanceModeling](https://img.shields.io/badge/Performance_Modeling-2E8B57?style=flat-square)
+
+---
 ### 📈 [Stockworthy — RAG-Based Stock Market Chatbot](https://github.com/madhavvyas03/Stock-Advisor)
 
 > *Context-aware financial intelligence powered by LLMs & real-time data*
@@ -140,66 +120,40 @@ Multi-feature time series forecasting model for solar generation analytics, inco
 
 ---
 
-### 🤖 [ASTRA-Sim Distributed Training Bottleneck Analyzer](https://github.com/madhavvyas03/Distributed-training-bottleneck-analyzer-using-AstraSim)
-
-> *AI agent for GPU scaling & communication bottleneck analysis*
-
-AI-powered system that processes 100+ Astra-Sim distributed simulation logs, identifies latency/throughput bottlenecks, and auto-generates optimization recommendations.
-
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![AstraSim](https://img.shields.io/badge/Astra--Sim-555555?style=flat-square)
-![DistributedSystems](https://img.shields.io/badge/Distributed_Systems-6A0DAD?style=flat-square)
-
----
-
-### 📄 Patent Intelligence Assistant *(Research)*
-
-> *LLM + RAG for intelligent patent document Q&A*
-
-RAG-based patent analysis system with recursive document chunking, LoRA/QLoRA fine-tuning, and semantic search over technical patent corpora. Domain-specific Q&A with high retrieval precision.
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0078D7?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA_%2F_QLoRA-FF6B6B?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
----
-
-<br/>
-
 ## 💼 Experience
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ▌ NithinMinds Solutions                     Jan 2025 – Present  ║
-╟──────────────────────────────────────────────────────────────────╢
-║    Role  →  AI / ML Engineer  ·  Remote                          ║
-║    Stack →  Python · FastAPI · LangChain · OpenAI · FAISS · Redis║
-║                                                                  ║
-║    • Built RAG workflows with LangChain & FAISS → +25% precision ║
-║    • FastAPI services with OAuth 2.0 & SSO → 99.9% uptime        ║
-║    • Cut LLM hallucinations via prompt engineering & CoT         ║
-║    • Text-to-image pipeline bridging retrieval & multimodal AI   ║
-║    • Optimised GenAI API latency with Redis caching              ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ▌ IIIT Delhi                               Jun 2023 – Jun 2025  ║
-╟──────────────────────────────────────────────────────────────────╢
-║    Role  →  LLM / ML & Python Developer  ·  Trainee              ║
-║    Stack →  Python · Hugging Face · Transformers · PEFT · LoRA   ║
-║                                                                  ║
-║    • Fine-tuned LLMs with LoRA, QLoRA & PEFT for research        ║
-║    • Built NLP pipelines — search, embeddings, prompt eng.       ║
-║    • Deployed research AI models into Python backend systems     ║
-║    • Ran transformer experiments optimising contextual accuracy  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ▌ SDM Kanjhawala, Delhi                    Jun 2023 – Jun 2024  ║
-╟──────────────────────────────────────────────────────────────────╢
-║    Role  →  G20 App Developer                                    ║
-║    Stack →  Kotlin · Android SDK · Jetpack · OAuth2 · REST APIs  ║
-║                                                                  ║
-║    • Mobile app for G20 admin coordination & field reporting     ║
-╚══════════════════════════════════════════════════════════════════╝
+```yaml
+ NithinMinds Solutions ──────────────────────────────────────────────────
+
+  Role       :  AI / ML Engineer  ·  Remote
+  Period     :  Jan 2025 – Present
+  Stack      :  Python · FastAPI · LangChain · OpenAI API · FAISS · Redis · Docker · AWS
+
+  Built      :  - RAG workflows with LangChain & FAISS → +25% retrieval precision
+                - Production FastAPI services with OAuth 2.0 & SSO → 99.9% uptime
+                - Text-to-image pipeline bridging retrieval & multimodal AI
+                - Cut LLM hallucinations via prompt engineering & CoT strategies
+                - Optimised high-volume GenAI API latency using Redis caching
+
+IIIT Delhi ─────────────────────────────────────────────────────────────
+
+  Role       :  LLM / ML & Python Developer  ·  Trainee
+  Period     :  Jun 2023 – Jun 2025
+  Stack      :  Python · Hugging Face · Transformers · PEFT · LoRA · PyTorch
+
+  Built      :  - Fine-tuned LLMs with LoRA, QLoRA & PEFT for patent & research tasks
+                - NLP pipelines — semantic search, embeddings, prompt engineering
+                - Deployed research AI models into Python backend systems
+                - Ran transformer experiments optimising contextual accuracy
+
+SDM Kanjhawala, Delhi ──────────────────────────────────────────────────
+
+  Role       :  G20 App Developer
+  Period     :  Jun 2023 – Jun 2024
+  Stack      :  Kotlin · Android SDK · Jetpack · OAuth2 · REST APIs · OWASP
+
+  Built      :  - Mobile app for G20 administrative coordination & field reporting
+
 ```
 
 ---
@@ -208,7 +162,7 @@ RAG-based patent analysis system with recursive document chunking, LoRA/QLoRA fi
 
 ## ✅ What I've Worked With
 
-```diff
+```yaml
 + Large Language Models (GPT-4, LLaMA, Mistral)
 + Retrieval-Augmented Generation (RAG) — end-to-end pipeline design & deployment
 + LLM Fine-Tuning with LoRA / QLoRA / PEFT on Hugging Face
@@ -224,12 +178,10 @@ RAG-based patent analysis system with recursive document chunking, LoRA/QLoRA fi
 
 ---
 
-<br/>
-
 ## 📚 Currently Learning
 
 ```css
-/* ── Sharpening the edge ──────────────────────────────────────────────── */
+Sharpening the edge ──────────────────────────────────────────────── 
 
   skill: "Advanced MLOps & Kubeflow Pipelines";
   skill: "AWS SageMaker — Model Deployment at Scale";
@@ -237,19 +189,13 @@ RAG-based patent analysis system with recursive document chunking, LoRA/QLoRA fi
   skill: "Distributed Training — FSDP & DeepSpeed";
   skill: "LLM Inference Optimization — vLLM & TensorRT-LLM";
 
-/* ───────────────────────────────────────────────────────────────────────── */
 ```
 
 ---
 
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavvyas03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavvyas03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -264,14 +210,14 @@ RAG-based patent analysis system with recursive document chunking, LoRA/QLoRA fi
 <br/>
 
 ## 📬 Connect With Me
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mvyas0327@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvyas0327@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhav_Vyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhav-vyas-164501293)
 [![GitHub](https://img.shields.io/badge/GitHub-madhavvyas03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhavvyas03)
-
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-4B0082?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/1Y7Robpa5zMv0gaBlmn-Q2D59CcpznQ08/edit?usp=sharing&ouid=118219652114868946813&rtpof=true&sd=true)
 </div>
+
 
 ---
 
