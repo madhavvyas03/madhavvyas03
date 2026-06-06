@@ -6,13 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C5CBF&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+that+ship+to+production;Fine-tuning+LLMs+with+LoRA+%2F+QLoRA;FastAPI+%2B+FAISS+%2B+LangChain+%E2%86%92+real+AI+products;1.2+yrs+exp+%7C+Open+to+AI+%2F+ML+%2F+SWE+roles)](https://git.io/typing-svg)
 
-</div>
-
----
-
-
-
-## 🔍 Open to Opportunities
 
 <div align="center">
 
