@@ -52,10 +52,8 @@
 ---
 
 <br/>
-<br/>
 
 ## 👤 About Me
-
 
 > *I care about making AI work in production — not just in notebooks. From fine-tuning LLMs with LoRA/QLoRA to deploying scalable RAG systems with FastAPI and FAISS, I build things that ship.*
 
