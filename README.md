@@ -191,52 +191,9 @@ RAG-based patent analysis system with recursive document chunking, LoRA/QLoRA fi
 
 ---
 
-<br/>
-
-## ✅ What I've Worked With
-
-```diff
-+ Large Language Models (GPT-4, LLaMA, Mistral)
-+ Retrieval-Augmented Generation (RAG) — end-to-end pipeline design & deployment
-+ LLM Fine-Tuning with LoRA / QLoRA / PEFT on Hugging Face
-+ Vector Databases — FAISS for semantic search & retrieval
-+ OpenAI API · LangChain · Prompt Engineering · Chain-of-Thought (CoT)
-+ Deep Learning — CNNs · Vision Transformers · BERT · BART · T5
-+ NLP — Semantic Search · Embeddings · Text Classification · Summarisation
-+ Computer Vision — OpenCV · MediaPipe · Real-time Inference Pipelines
-+ FastAPI — production-grade services with OAuth 2.0, SSO, Redis caching
-+ Docker · AWS · Kubernetes · MLflow · CI/CD
-+ PostgreSQL · MongoDB · Redis · SQL
-```
-
----
-
-<br/>
-
-## 📚 Currently Learning
-
-```css
-/* ── Sharpening the edge ──────────────────────────────────────────────── */
-
-  skill: "Advanced MLOps & Kubeflow Pipelines";
-  skill: "AWS SageMaker — Model Deployment at Scale";
-  skill: "System Design for Distributed AI Systems";
-  skill: "Distributed Training — FSDP & DeepSpeed";
-  skill: "LLM Inference Optimization — vLLM & TensorRT-LLM";
-
-/* ───────────────────────────────────────────────────────────────────────── */
-```
-
----
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavvyas03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavvyas03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
