@@ -10,34 +10,7 @@
 
 ---
 
-<br/>
 
-## 👤 About Me
-
-```yaml
-# ── Madhav Vyas ────────────────────────────────────────────────────────────
-
-  Name         :  Madhav Vyas
-  Location     :  Delhi, India 🇮🇳
-  Education    :  B.Tech · CS & Applied Mathematics · IIIT Delhi (2020–2026)
-  Experience   :  1.2 years · AI/ML Engineer @ NithinMinds Solutions
-  Specialises  :  LLM Fine-Tuning · RAG Architectures · NLP · Backend Systems
-  Status       :  🟢 Open to — Software Engineer | ML Engineer | AI Engineer
-
-# ── What I actually build ──────────────────────────────────────────────────
-
-  🔷  Production RAG Pipelines         🔷  LLM Fine-Tuning (LoRA / QLoRA)
-  🔷  FastAPI AI Backends              🔷  Vector Search with FAISS
-  🔷  NLP & Transformer Models         🔷  Computer Vision Systems
-
-# ──────────────────────────────────────────────────────────────────────────
-```
-
-> *I care about making AI work in production — not just in notebooks. From fine-tuning LLMs with LoRA/QLoRA to deploying scalable RAG systems with FastAPI and FAISS, I build things that ship.*
-
----
-
-<br/>
 
 ## 🔍 Open to Opportunities
 
@@ -93,7 +66,16 @@
 ---
 
 <br/>
+<br/>
 
+## 👤 About Me
+
+
+> *I care about making AI work in production — not just in notebooks. From fine-tuning LLMs with LoRA/QLoRA to deploying scalable RAG systems with FastAPI and FAISS, I build things that ship.*
+
+---
+
+<br/>
 ## 💡 Core Expertise
 
 ```diff
