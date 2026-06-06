@@ -6,16 +6,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C5CBF&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+that+ship+to+production;Fine-tuning+LLMs+with+LoRA+%2F+QLoRA;FastAPI+%2B+FAISS+%2B+LangChain+%E2%86%92+real+AI+products;1.2+yrs+exp+%7C+Open+to+AI+%2F+ML+%2F+SWE+roles)](https://git.io/typing-svg)
 
+</div align="center">
 
-<div align="center">
+---
 
 ![SE](https://img.shields.io/badge/💼_Software_Engineer-4B0082?style=for-the-badge)
 ![AIE](https://img.shields.io/badge/🧬_AI_%2F_ML_Engineer-0f3460?style=for-the-badge)
 
+---
 </div>
 
----
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,6 +53,8 @@
 
 <br/>
 
+<br/>
+
 ## 👤 About Me
 
 > *I care about making AI work in production — not just in notebooks. From fine-tuning LLMs with LoRA/QLoRA to deploying scalable RAG systems with FastAPI and FAISS, I build things that ship.*
@@ -60,38 +62,34 @@
 ---
 
 <br/>
-```diff
-+ ── Generative AI ──────────────────────────────────────────────────────────
-+   RAG Pipeline Design
-+   LLM Fine-Tuning (LoRA / QLoRA)
-+   Prompt Engineering & Chain-of-Thought (CoT)
-+   Vector Databases (FAISS)
-+   AI Chatbots & Agents
-+   Hallucination Reduction
+## 💡 Core Expertise
 
-+ ── Machine Learning ───────────────────────────────────────────────────────
-+   Model Training & Evaluation
-+   Deep Learning — CNNs · Transformers · ViT
-+   BERT · T5 · BART Fine-Tuning (PEFT)
-+   Time Series Forecasting
-+   Feature Engineering
-+   Semantic Search & Embeddings
-
-+ ── Software Engineering ───────────────────────────────────────────────────
-+   Production FastAPI Services
-+   OAuth 2.0 & SSO Integration
-+   System Design & OOP
-+   Data Structures & Algorithms
-+   Redis Caching & Latency Optimisation
-+   REST API Architecture
-
-+ ── MLOps ──────────────────────────────────────────────────────────────────
-+   Docker Containerisation
-+   Model Deployment & Serving
-+   Experiment Tracking (MLflow)
-+   Inference Latency Optimisation
-+   Distributed Systems
-+   CI/CD Basics
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ◈  GENERATIVE AI                                                ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ▸ RAG Pipeline Design           ▸ LLM Fine-Tuning (LoRA/QLoRA)  ║
+║  ▸ Prompt Engineering & CoT      ▸ Vector Databases (FAISS)      ║
+║  ▸ AI Chatbots & Agents          ▸ Hallucination Reduction       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ◈  MACHINE LEARNING                                             ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ▸ Model Training & Evaluation   ▸ Deep Learning — CNNs · ViT    ║
+║  ▸ BERT · T5 · BART Fine-Tuning  ▸ Time Series Forecasting       ║
+║  ▸ Feature Engineering           ▸ Semantic Search & Embeddings  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ◈  SOFTWARE ENGINEERING                                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ▸ Production FastAPI Services   ▸ System Design & OOP           ║
+║  ▸ OAuth 2.0 & SSO               ▸ Data Structures & Algorithms  ║
+║  ▸ Redis Caching & Optimisation  ▸ REST API Architecture         ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ◈  MLOPS                                                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ▸ Docker Containerisation       ▸ Model Deployment & Serving    ║
+║  ▸ Experiment Tracking (MLflow)  ▸ Inference Latency Optim.      ║
+║  ▸ Distributed Systems           ▸ CI/CD Basics                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -172,38 +170,86 @@ RAG-based patent analysis system with recursive document chunking, LoRA/QLoRA fi
 
 ## 💼 Experience
 
-```yaml
-# ── NithinMinds Solutions ─────────────────────────────────────── Jan 2025 – Present
-  Role    :  AI / ML Engineer (Remote)
-  Stack   :  Python · FastAPI · LangChain · OpenAI API · FAISS · Redis · PostgreSQL · Docker · AWS
-  Impact  :
-    - Designed scalable RAG workflows → 25% improvement in retrieval precision
-    - Built production FastAPI services with OAuth 2.0 & SSO → 99.9% uptime
-    - Reduced LLM hallucinations via prompt engineering & Chain-of-Thought (CoT)
-    - Built text-to-image pipeline integrating multimodal AI into the product
-    - Optimised inference latency using Redis caching for high-volume GenAI APIs
-
-# ── IIIT Delhi ────────────────────────────────────────────────── Jun 2023 – Jun 2025
-  Role    :  LLM / ML & Python Developer (Trainee)
-  Stack   :  Python · Hugging Face · Transformers · PEFT · LoRA · PyTorch
-  Impact  :
-    - Fine-tuned domain LLMs using LoRA, QLoRA, PEFT for patent & research use cases
-    - Built NLP pipelines — semantic search, embeddings, prompt engineering
-    - Integrated research AI models into deployable Python-based backends
-    - Ran transformer experiments for contextual accuracy & response optimisation
-
-# ── SDM Kanjhawala, Delhi ─────────────────────────────────────── Jun 2023 – Jun 2024
-  Role    :  G20 App Developer
-  Stack   :  Android SDK · Kotlin · Jetpack · OAuth2 · REST APIs · OWASP
-  Impact  :
-    - Built mobile app for G20 administrative coordination & field reporting
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ▌ NithinMinds Solutions                     Jan 2025 – Present  ║
+╟──────────────────────────────────────────────────────────────────╢
+║    Role  →  AI / ML Engineer  ·  Remote                          ║
+║    Stack →  Python · FastAPI · LangChain · OpenAI · FAISS · Redis║
+║                                                                  ║
+║    • Built RAG workflows with LangChain & FAISS → +25% precision ║
+║    • FastAPI services with OAuth 2.0 & SSO → 99.9% uptime        ║
+║    • Cut LLM hallucinations via prompt engineering & CoT         ║
+║    • Text-to-image pipeline bridging retrieval & multimodal AI   ║
+║    • Optimised GenAI API latency with Redis caching              ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ▌ IIIT Delhi                               Jun 2023 – Jun 2025  ║
+╟──────────────────────────────────────────────────────────────────╢
+║    Role  →  LLM / ML & Python Developer  ·  Trainee              ║
+║    Stack →  Python · Hugging Face · Transformers · PEFT · LoRA   ║
+║                                                                  ║
+║    • Fine-tuned LLMs with LoRA, QLoRA & PEFT for research        ║
+║    • Built NLP pipelines — search, embeddings, prompt eng.       ║
+║    • Deployed research AI models into Python backend systems     ║
+║    • Ran transformer experiments optimising contextual accuracy  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ▌ SDM Kanjhawala, Delhi                    Jun 2023 – Jun 2024  ║
+╟──────────────────────────────────────────────────────────────────╢
+║    Role  →  G20 App Developer                                    ║
+║    Stack →  Kotlin · Android SDK · Jetpack · OAuth2 · REST APIs  ║
+║                                                                  ║
+║    • Mobile app for G20 admin coordination & field reporting     ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
+<br/>
+
+## ✅ What I've Worked With
+
+```diff
++ Large Language Models (GPT-4, LLaMA, Mistral)
++ Retrieval-Augmented Generation (RAG) — end-to-end pipeline design & deployment
++ LLM Fine-Tuning with LoRA / QLoRA / PEFT on Hugging Face
++ Vector Databases — FAISS for semantic search & retrieval
++ OpenAI API · LangChain · Prompt Engineering · Chain-of-Thought (CoT)
++ Deep Learning — CNNs · Vision Transformers · BERT · BART · T5
++ NLP — Semantic Search · Embeddings · Text Classification · Summarisation
++ Computer Vision — OpenCV · MediaPipe · Real-time Inference Pipelines
++ FastAPI — production services with OAuth 2.0, SSO, Redis caching
++ Docker · AWS · Kubernetes · MLflow · CI/CD
++ PostgreSQL · MongoDB · Redis · SQL
+```
+
+---
+
+<br/>
+
+## 📚 Currently Learning
+
+```css
+/* ── Sharpening the edge ──────────────────────────────────────────────── */
+
+  skill: "Advanced MLOps & Kubeflow Pipelines";
+  skill: "AWS SageMaker — Model Deployment at Scale";
+  skill: "System Design for Distributed AI Systems";
+  skill: "Distributed Training — FSDP & DeepSpeed";
+  skill: "LLM Inference Optimization — vLLM & TensorRT-LLM";
+
+/* ───────────────────────────────────────────────────────────────────────── */
+```
+
+---
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavvyas03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavvyas03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
