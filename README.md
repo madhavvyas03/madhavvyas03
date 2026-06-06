@@ -10,9 +10,7 @@
 <div align="center">
 
 ![SE](https://img.shields.io/badge/💼_Software_Engineer-4B0082?style=for-the-badge)
-![MLE](https://img.shields.io/badge/🤖_ML_Engineer-1a1a2e?style=for-the-badge)
-![AIE](https://img.shields.io/badge/🧬_AI_%2F_GenAI_Engineer-0f3460?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/⚙️_MLOps_Engineer-16213e?style=for-the-badge)
+![AIE](https://img.shields.io/badge/🧬_AI_%2F_ML_Engineer-0f3460?style=for-the-badge)
 
 </div>
 
