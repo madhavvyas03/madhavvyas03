@@ -60,28 +60,38 @@
 ---
 
 <br/>
-## 💡 Core Expertise
-
 ```diff
-+ ── Generative AI ────────────────────────────────────────────────────────────
-+  RAG Pipeline Design          LLM Fine-Tuning (LoRA / QLoRA)
-+  Prompt Engineering & CoT     Vector Databases (FAISS)
-+  AI Chatbots & Agents         Hallucination Reduction
++ ── Generative AI ──────────────────────────────────────────────────────────
++   RAG Pipeline Design
++   LLM Fine-Tuning (LoRA / QLoRA)
++   Prompt Engineering & Chain-of-Thought (CoT)
++   Vector Databases (FAISS)
++   AI Chatbots & Agents
++   Hallucination Reduction
 
-+ ── Machine Learning ─────────────────────────────────────────────────────────
-+  Model Training & Evaluation  Deep Learning (CNNs, Transformers, ViT)
-+  BERT · T5 · BART Fine-Tuning Time Series Forecasting
-+  Feature Engineering          Semantic Search & Embeddings
++ ── Machine Learning ───────────────────────────────────────────────────────
++   Model Training & Evaluation
++   Deep Learning — CNNs · Transformers · ViT
++   BERT · T5 · BART Fine-Tuning (PEFT)
++   Time Series Forecasting
++   Feature Engineering
++   Semantic Search & Embeddings
 
-+ ── Software Engineering ──────────────────────────────────────────────────────
-+  Production FastAPI Services  System Design & OOP
-+  OAuth 2.0 & SSO              Data Structures & Algorithms
-+  Redis Caching & Optimization REST API Architecture
++ ── Software Engineering ───────────────────────────────────────────────────
++   Production FastAPI Services
++   OAuth 2.0 & SSO Integration
++   System Design & OOP
++   Data Structures & Algorithms
++   Redis Caching & Latency Optimisation
++   REST API Architecture
 
-+ ── MLOps ────────────────────────────────────────────────────────────────────
-+  Docker Containerization      Model Deployment & Serving
-+  Experiment Tracking (MLflow) Inference Latency Optimization
-+  Distributed Systems          CI/CD Basics
++ ── MLOps ──────────────────────────────────────────────────────────────────
++   Docker Containerisation
++   Model Deployment & Serving
++   Experiment Tracking (MLflow)
++   Inference Latency Optimisation
++   Distributed Systems
++   CI/CD Basics
 ```
 
 ---
