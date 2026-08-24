@@ -58,6 +58,36 @@
 ---
 
 ## 🚀 Featured Projects
+### 🧠 [SLM-Agent — Fine-Tuning Small Language Models into Tool-Calling Agents](https://github.com/madhavvyas03/SLM-Agent)
+
+> *LoRA/QLoRA fine-tuning + Model Context Protocol (MCP) → lightweight, deployable AI agents*
+
+End-to-end framework for fine-tuning Small Language Models into production-ready agents capable of tool selection, structured parameter extraction, and multi-step reasoning via the Model Context Protocol. Includes a W&B-tracked evaluation pipeline (tool selection accuracy, hallucination rate, task completion) and a Dockerized FastAPI inference server.
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA_%2F_QLoRA-FF6B6B?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WandB](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 🦖 [Chrome Dino Game RL Agent — Deep Q-Network](https://github.com/madhavvyas03/dinogame_Chrome_RL)
+
+> *Teaching an agent to play Chrome's Dinosaur Game from scratch with DQN*
+
+Built a custom Gymnasium environment replicating Chrome's Dinosaur Game and trained a Deep Q-Network agent — architecture based on DeepMind's original Atari paper — to play it. Benchmarked agent performance across 1000 training episodes, with checkpointed gameplay comparisons at 100/300/500/700/900 episodes showing clear learning progression.
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0078D7?style=flat-square)
+![DQN](https://img.shields.io/badge/Deep_Q--Learning-6A0DAD?style=flat-square)
+![ReinforcementLearning](https://img.shields.io/badge/Reinforcement_Learning-FF6B6B?style=flat-square)
+
+---
 ### 🤖 [ASTRA-Sim Distributed Training Bottleneck Analyzer](https://github.com/madhavvyas03/Distributed-training-bottleneck-analyzer-using-AstraSim)
 
 > *AI agent for GPU scaling & communication bottleneck analysis*
